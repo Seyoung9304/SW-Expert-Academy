@@ -10,4 +10,4 @@ for test_case in range(1, T + 1):
         m2 = max(b_list[i+1:i+3])
         m = max(m1, m2)
         answer += max(0, h-m)
-	print(f"#{test_case} {answer}")
+    print(f"#{test_case} {answer}")
