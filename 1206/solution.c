@@ -22,5 +22,5 @@ int main(){
         sum=0;
         free(in);
     }
-    return 0
+    return 0;
 }
