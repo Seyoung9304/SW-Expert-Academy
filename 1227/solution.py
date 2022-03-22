@@ -1,5 +1,5 @@
 TC = 10
-MAZE_SIZE = 5
+MAZE_SIZE = 100
 moves = [[1, 0], [0, 1], [-1, 0], [0, -1]]
 for _ in range(1, TC+1):
     tc = int(input())
