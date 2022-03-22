@@ -1,3 +1,6 @@
+"""
+그리디 말고 중복조합으로 다시 풀기
+"""
 T = int(input())
 for tc in range(1, T+1):
     N, P = map(int, input().split())
