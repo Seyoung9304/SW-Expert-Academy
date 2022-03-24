@@ -1,3 +1,4 @@
+# MST - Prim
 import math
 
 def prim():
