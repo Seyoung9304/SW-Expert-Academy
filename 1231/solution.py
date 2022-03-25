@@ -1,3 +1,6 @@
+"""
+문제 특성상 left, right를 따로 저장하지 않고 index만 사용하여 풀이도 가능함. 
+"""
 def inorder_traverse(root):
     if left[root]!=0:
         inorder_traverse(left[root])
